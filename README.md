@@ -1,0 +1,6 @@
+# NFT潮玩数字藏品源码/NFT数藏源码/元宇宙盲盒艺术品铸造上链二级市场源码数字藏品源码
+
+♥本店源码都是由店主亲自测试才上架！拍前请看演示！本店所有商品24小时自动发货♥<br>1、源码为虚拟产品，拍前请慎重，购买源码前有演示站的先测试演示站，没有演示站的详情介绍里有预览图可查阅！演示大图皆是实测截图；<br>2、若有安装服务仅限搭建到服务器，能访问前后台，如果需要功能修改,网站设置修改等，另外协商费用。<br>3、程序仅供娱乐交流测试，请勿用于商业以及违法使用，一切法律责任与本店无关；<br>4、安装服务仅对网站源码安装，不进行设置，网站环境需买家自行配置好；<br>5、安装网站，需要买家提供宝塔权限，不接受QQ等远程操作；<br>6、收费服务：服务器环境配置、系统安装、网站调试、网站设置；<br>↓↓↓↓===================↓↓↓↓==================↓↓↓↓<br>（下面才是正文）<br>主要功能介绍<br>example.com：藏品发售，品牌方设定，创作者设定<br>example.com：限时发售，到期自动上架<br>example.com：用户的藏品可以直接挂售到二级市场商城<br>example.com：购买盲盒随机抽取藏品，后台可设置盲盒中的中奖藏品已经概率<br>example.com：购买碎片后可以合成对应的艺术品，后台灵活设置<br>example.com：藏品指定或随机空投给用户，定时空投<br>example.com：后台指定会员可提前购买藏品<br>example.com/转增冻结：冻结期过了之后才能再次销售<br>example.com：邀请好友赠送艺术品<br>example.com，后台可直接设置<br>example.com：会员完成任务增加经验升级<br>example.com：对接微信支付宝<br>13：藏品赋能：购买指定藏品可赠送优先购次数<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/xuDVr" style="color: red;">https://mega-file.org/xuDVr</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
